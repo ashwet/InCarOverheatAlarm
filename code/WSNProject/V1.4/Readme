@@ -1,0 +1,3 @@
+Sending email - limited to once only, if it is still detecting an activity it will beep for 100 ms but it will not send email again.
+
+in order to transmit email again, accel cycle should start from state 1.

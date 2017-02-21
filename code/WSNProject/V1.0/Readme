@@ -1,0 +1,6 @@
+Accel woring - we are capturing 10 readings and taking avg of it and then checking for threshold and then making the decision
+		if counter reaches to 10 then we are monitoring the temp
+
+if temp increases above the threshold then monitoring the mic
+
+and if we observe any motion in between this, we are breaking out of the loop and going back to initial condition
